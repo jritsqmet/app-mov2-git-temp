@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { Button, StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   return (
@@ -10,6 +10,8 @@ export default function App() {
       <text>PRUEBA DE GITHUB ACTUAL</text>
       <button title='activar'/>
       
+      <Text>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur itaque vel, aliquam facilis iusto ipsam repellat. Aperiam quas incidunt at cumque, error commodi tempore obcaecati minima omnis optio unde provident.</Text>
+      <Button title='hola'/>
     </View>
   );
 }
