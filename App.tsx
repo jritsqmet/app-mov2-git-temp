@@ -12,6 +12,9 @@ export default function App() {
       
       <Text>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur itaque vel, aliquam facilis iusto ipsam repellat. Aperiam quas incidunt at cumque, error commodi tempore obcaecati minima omnis optio unde provident.</Text>
       <Button title='hola'/>
+
+      <Text>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur itaque vel, aliquam facilis iusto ipsam repellat. Aperiam quas incidunt at cumque, error commodi tempore obcaecati minima omnis optio unde provident.</Text>
+      <Button title='Proaño'/>
     </View>
   );
 }
